@@ -18,6 +18,8 @@ namespace HelloWorld
             //Thus being access by a Method or any other anywhere the class.
             //The Method is instansiated and thus allows "Hello World!" to be printed.
 
+            //This will add to Git Status and commit as new
+
             doSomething();
             Console.WriteLine(result);
         }

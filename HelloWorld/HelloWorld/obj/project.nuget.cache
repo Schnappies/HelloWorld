@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jY7y2oEgqrlHYfjTkrDL7Vo+HiZMni4MSc2GiNdmMtPwsDJEBFxgPXhTcKk5zSOrn7jwxg8bGfWbiChs+3cnYg==",
+  "dgSpecHash": "96q/z1gq+6p5dXakxEUKEcaLu8qBxQbONFfhLpcusAvKvJVJl+0J/300HjrrrneUAmtpyhQBmrk1JQi9sm4apw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Louwrens\\source\\repos\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
+  "projectFilePath": "C:\\LocalGitRepositories\\HelloWorld\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
