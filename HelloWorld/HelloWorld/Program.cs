@@ -12,6 +12,12 @@ namespace HelloWorld
             result = "Hello World!";
             return "Something";
         }
+
+        public static string doSomethingAgain()
+        {
+            result = "Hello World! Printing Again";
+            return "Something two";
+        }
         static void Main(string[] args)
         {
             //The Global variable is assigned "Hello World!"
@@ -21,6 +27,7 @@ namespace HelloWorld
             //This will add to Git Status and commit as new
 
             doSomething();
+            doSomethingAgain();
             Console.WriteLine(result);
         }
     }
