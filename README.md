@@ -1,2 +1,5 @@
-#This is readme file for HelloWorld program
-#I am practicing to use Git and GittingGud
+# HelloWorld
+
+This is readme file for HelloWorld program.
+
+I am practicing to use Git and GittingGud.
