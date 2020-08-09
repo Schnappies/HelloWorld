@@ -2,4 +2,4 @@
 
 This is readme file for HelloWorld program.
 
-I am practicing to use Git and GittingGud.
+I am practicing to use Git and GittingGud at it.
